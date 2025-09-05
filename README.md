@@ -39,7 +39,7 @@ app/
 ---
 ## 📝 Topics Covered
 1. **Variables**  
-   ]
+   
 2. **Arithmetic**  
    
 3. **Conditionals**  
